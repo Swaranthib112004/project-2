@@ -1,0 +1,2 @@
+student_n,exer_n,knowledge_n
+10,100,236

@@ -1,0 +1,471 @@
+{
+  "Q001": [
+    "Sequence of Articles",
+    "Determiner Use",
+    "Definite and Indefinite Articles"
+  ],
+  "Q002": [
+    "Short-sighted",
+    "Narrow-minded",
+    "Visionless"
+  ],
+  "Q003": [
+    "Average",
+    "Statistics",
+    "Error Detection"
+  ],
+  "Q004": [
+    "Family relationships",
+    "Kinship terms",
+    "Genealogy"
+  ],
+  "Q005": [
+    "Similar Triangles",
+    "Ratio and Proportion",
+    "Geometric Properties"
+  ],
+  "Q006": [
+    "Probability",
+    "Independent Events",
+    "Combinatorics"
+  ],
+  "Q007": [
+    "Geometry",
+    "Symmetry",
+    "Paper Folding"
+  ],
+  "Q008": [
+    "Opposites",
+    "Vocabulary",
+    "Semantics"
+  ],
+  "Q009": [
+    "Grammar",
+    "Syntax",
+    "Language"
+  ],
+  "Q010": [
+    "Sequence",
+    "Context"
+  ],
+  "Q011": [
+    "Array Implementation",
+    "Queue Data Structure",
+    "Dynamic Memory Allocation"
+  ],
+  "Q012": [
+    "Hash Table",
+    "Chaining",
+    "Average Case"
+  ],
+  "Q013": [
+    "Binary Search",
+    "Sorted Array",
+    "Algorithm"
+  ],
+  "Q014": [
+    "Stack",
+    "LIFO",
+    "Undo Algorithm"
+  ],
+  "Q015": [
+    "Dynamic Programming",
+    "Memoization",
+    "Optimal Substructure"
+  ],
+  "Q016": [
+    "Breadth-First Traversal",
+    "Level Order Traversal"
+  ],
+  "Q017": [
+    "Binary Heap",
+    "Heap Data Structure"
+  ],
+  "Q018": [
+    "Graph Traversal",
+    "Stack Data Structure"
+  ],
+  "Q019": [
+    "Exponential Growth",
+    "Recursive Function",
+    "Dynamic Programming"
+  ],
+  "Q020": [
+    "Permutations",
+    "Combinations with Repetition",
+    "Factorial"
+  ],
+  "Q021": [
+    "Context-Free Grammar",
+    "Production Rules",
+    "Generative Capacity"
+  ],
+  "Q022": [
+    "Formal Language",
+    "Regular Expression",
+    "DFA"
+  ],
+  "Q023": [
+    "Halting Problem",
+    "Turing Machine",
+    "Undecidability"
+  ],
+  "Q024": [
+    "Chomsky Normal Form",
+    "Grammar",
+    "Pumping Lemma"
+  ],
+  "Q025": [
+    "NP-completeness",
+    "SAT",
+    "DFA"
+  ],
+  "Q026": [
+    "Formal Language Theory",
+    "Language Classes",
+    "Closure Properties"
+  ],
+  "Q027": [
+    "Regular Language",
+    "Grammar Type",
+    "Pumping Lemma"
+  ],
+  "Q028": [
+    "Deterministic Finite Automaton",
+    "DFA Minimization"
+  ],
+  "Q029": [
+    "Parser",
+    "LR Parsing"
+  ],
+  "Q030": [
+    "Context-Free Grammar",
+    "Chomsky Hierarchy",
+    "Pushdown Automaton"
+  ],
+  "Q031": [
+    "Process State",
+    "Operating System"
+  ],
+  "Q032": [
+    "Deadlock",
+    "Operating System",
+    "Process Synchronization"
+  ],
+  "Q033": [
+    "Round Robin",
+    "Preemptive Scheduling"
+  ],
+  "Q034": [
+    "Operating System",
+    "Privilege Level",
+    "Access Control"
+  ],
+  "Q035": [
+    "Paging",
+    "TLB (Translation Lookaside Buffer)",
+    "Page Fault"
+  ],
+  "Q036": [
+    "Virtual Memory",
+    "Page Replacement Algorithm"
+  ],
+  "Q037": [
+    "Demand Paging",
+    "Page Fault Rate"
+  ],
+  "Q038": [
+    "LRU",
+    "Scheduling Algorithm",
+    "Reference Bit"
+  ],
+  "Q039": [
+    "Pipeline Stages",
+    "Instructions Per Cycle"
+  ],
+  "Q040": [
+    "Cache Mapping",
+    "Direct Mapped",
+    "Fully Associative"
+  ],
+  "Q041": [
+    "IPv4",
+    "Addressing",
+    "Networking"
+  ],
+  "Q042": [
+    "TCP",
+    "Congestion Control",
+    "Mechanism"
+  ],
+  "Q043": [
+    "TCP",
+    "Handshake",
+    "Connection Establishment"
+  ],
+  "Q044": [
+    "Order",
+    "Packet Routing",
+    "Sequence"
+  ],
+  "Q045": [
+    "Data Link Layer",
+    "OSI Model"
+  ],
+  "Q046": [
+    "Architecture",
+    "Microprocessor",
+    "Instruction Set"
+  ],
+  "Q047": [
+    "Pipelining",
+    "Hazard",
+    "Forwarding"
+  ],
+  "Q048": [
+    "Flash",
+    "Non-Volatile Memory"
+  ],
+  "Q049": [
+    "CPU Architecture",
+    "Branch Prediction",
+    "Pipelining"
+  ],
+  "Q050": [
+    "TCP",
+    "Reliable Delivery"
+  ],
+  "Q051": [
+    "Relational Database",
+    "Candidate Keys",
+    "Normal Forms"
+  ],
+  "Q052": [
+    "serializability",
+    "database transaction schedule"
+  ],
+  "Q053": [
+    "B-Tree",
+    "Indexing"
+  ],
+  "Q054": [
+    "Join Algorithm",
+    "Efficient Query Optimization",
+    "Sorted Inputs"
+  ],
+  "Q055": [
+    "Concurrency Control",
+    "Rollback",
+    "Database Management"
+  ],
+  "Q056": [
+    "Unique Constraint",
+    "SQL Constraints"
+  ],
+  "Q057": [
+    "Foreign Key",
+    "Relational Databases",
+    "Database Schema"
+  ],
+  "Q058": [
+    "Isolation Levels",
+    "Dirty Reads",
+    "Transactions"
+  ],
+  "Q059": [
+    "Indexing",
+    "Database Optimization"
+  ],
+  "Q060": [
+    "Database",
+    "Indexing",
+    "SQL"
+  ],
+  "Q061": [
+    "Compiler Design",
+    "Symbol Table",
+    "Parse Tree"
+  ],
+  "Q062": [
+    "Parser",
+    "LR Parsing"
+  ],
+  "Q063": [
+    "Common Subexpression Elimination",
+    "Optimization Technique"
+  ],
+  "Q064": [
+    "Syntax Analysis",
+    "Compiler Design"
+  ],
+  "Q065": [
+    "Register Allocation",
+    "Graph Coloring"
+  ],
+  "Q066": [
+    "Balancing factor",
+    "Self-balancing BST",
+    "Node color"
+  ],
+  "Q067": [
+    "Intermediate Code",
+    "Three-Address Code",
+    "Code Generation"
+  ],
+  "Q068": [
+    "Register Allocation",
+    "Dead Code Elimination"
+  ],
+  "Q069": [
+    "Parsing",
+    "Context-Free Grammar"
+  ],
+  "Q070": [
+    "Control Flow Graph",
+    "Compiler Phases"
+  ],
+  "Q071": [
+    "sign-magnitude",
+    "two's complement",
+    "number representation"
+  ],
+  "Q072": [
+    "Amdahl's Law",
+    "Parallel Processing",
+    "Speedup"
+  ],
+  "Q073": [
+    "Processor Architecture",
+    "Instruction Cycle",
+    "Single-Cycle Processors"
+  ],
+  "Q074": [
+    "RISC",
+    "CISC",
+    "Instruction Set Architecture"
+  ],
+  "Q075": [
+    "Cache Write Policy",
+    "Write Buffer"
+  ],
+  "Q076": [
+    "Addressing modes",
+    "Instruction encoding",
+    "Assembly language"
+  ],
+  "Q077": [
+    "Pipeline Stages",
+    "Control Hazards",
+    "Branch Prediction"
+  ],
+  "Q078": [
+    "Pipeline Stalls",
+    "Clock Cycles",
+    "Performance Optimization"
+  ],
+  "Q079": [
+    "Opcode",
+    "Immediate Operand"
+  ],
+  "Q080": [
+    "Virtual Memory",
+    "Hardware Level"
+  ],
+  "Q081": [
+    "Edge Triggering",
+    "Flip Flop Types",
+    "Digital Logic"
+  ],
+  "Q082": [
+    "Boolean Algebra",
+    "Complement",
+    "De Morgan's Law"
+  ],
+  "Q083": [
+    "Turing Machine",
+    "Universal Computation",
+    "Gate Completeness"
+  ],
+  "Q084": [
+    "Two's Complement",
+    "Logic Circuit",
+    "Overflow Detection"
+  ],
+  "Q085": [
+    "Digital Logic",
+    "Circuit Design",
+    "Boolean Algebra"
+  ],
+  "Q086": [
+    "Digital Logic",
+    "Full Adder",
+    "Binary Arithmetic"
+  ],
+  "Q087": [
+    "Flip Flop",
+    "Register",
+    "Sequential Circuit"
+  ],
+  "Q088": [
+    "Thread",
+    "Asynchronous"
+  ],
+  "Q089": [
+    "Multiplexer",
+    "Combinatorial Logic",
+    "Demultiplexer"
+  ],
+  "Q090": [
+    "Error Detection",
+    "Data Transmission",
+    "Cyclic Redundancy Check (CRC)",
+    "Checksum"
+  ],
+  "Q091": [
+    "Graph Theory",
+    "Trees",
+    "Number of Edges"
+  ],
+  "Q092": [
+    "Power Set",
+    "Set Theory",
+    "Cardinality"
+  ],
+  "Q093": [
+    "Euler's Formula",
+    "Connected Planar Graphs"
+  ],
+  "Q094": [
+    "Binomial Distribution",
+    "Expected Value",
+    "Probability Theory"
+  ],
+  "Q095": [
+    "Independence",
+    "Random Variables",
+    "Variance"
+  ],
+  "Q096": [
+    "Graph Theory",
+    "Eulerian Circuit",
+    "Connected Graph"
+  ],
+  "Q097": [
+    "Graph Traversal",
+    "Depth-First Search"
+  ],
+  "Q098": [
+    "Graph Algorithms",
+    "Dynamic Programming",
+    "Memoization"
+  ],
+  "Q099": [
+    "Permutations",
+    "Combinations"
+  ],
+  "Q100": [
+    "Turing Machine",
+    "Undecidability",
+    "Recursive Enigma"
+  ]
+}

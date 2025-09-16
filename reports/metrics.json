@@ -1,0 +1,8 @@
+{
+  "RMSE": 0.49964464268620845,
+  "AUC": 0.4790665064102564,
+  "Accuracy": 0.52,
+  "F1": NaN,
+  "Precision": NaN,
+  "Recall": NaN
+}

@@ -1,0 +1,10 @@
+epoch= 1, accuracy= 0.500000, rmse= 0.703143, auc= 0.542800
+epoch= 2, accuracy= 0.500000, rmse= 0.647276, auc= 0.544200
+epoch= 3, accuracy= 0.500000, rmse= 0.546880, auc= 0.538400
+epoch= 4, accuracy= 0.500000, rmse= 0.514249, auc= 0.537400
+epoch= 5, accuracy= 0.500000, rmse= 0.505668, auc= 0.535600
+epoch= 6, accuracy= 0.500000, rmse= 0.502761, auc= 0.535200
+epoch= 7, accuracy= 0.500000, rmse= 0.501487, auc= 0.528400
+epoch= 8, accuracy= 0.500000, rmse= 0.501011, auc= 0.523400
+epoch= 9, accuracy= 0.500000, rmse= 0.500844, auc= 0.514400
+epoch= 10, accuracy= 0.500000, rmse= 0.500699, auc= 0.508400

@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+ollama
+streamlit
+matplotlib
+torch # Add torch
